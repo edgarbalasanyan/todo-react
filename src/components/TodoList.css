@@ -1,0 +1,15 @@
+.todo-list {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .task-count,
+  .completed-count,
+  .remaining-count {
+    margin-bottom: 10px;
+  }
+  
+  hr {
+    margin: 20px 0;
+  }
+  
